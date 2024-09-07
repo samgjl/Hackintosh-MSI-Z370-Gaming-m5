@@ -14,6 +14,7 @@ OpenCore Specs:
 - Version 1.0.1
 - Referencing [Dortania's OpenCore guide](https://dortania.github.io/OpenCore-Install-Guide/)
 - Used [FrostMiku's EFI](https://github.com/FrostMiKu/msi-z370-hackintosh) as a base
+- Uses OpenCanopy GUI for a Linux/MacOS dual-boot
 
 Notes:
 - This EFI is currently using the *OpenHFSPlus* driver. Check Dortania's [Gathering Files](https://dortania.github.io/OpenCore-Install-Guide/ktext.html#universal) section if you want to change this.
