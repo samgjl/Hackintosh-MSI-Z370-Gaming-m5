@@ -3,7 +3,7 @@ This is repository contains a working EFI for MacOS Sonoma on the MSI [z370 Gami
 
 System Specs:
 - CPU: i5 8600k
-- Using iGPU
+- Using iGPU: Intel® UHD Graphics 630
 - Cooler: Corsair H100i
 - 16gb (2x8) Corsair Vengeance Pro 3000MHz
 - M.2 TeamGroup SSD (MacOS Sonoma)
